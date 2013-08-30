@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="385.35dp"
+    android:layout_height="fill_parent"
+    android:background="@drawable/menu_bg01" >
+
+    <RelativeLayout
+        android:id="@+id/top_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/menu_bg03" >
+
+        <ImageButton
+            android:id="@+id/guide_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="31.74dp"
+            android:background="@drawable/btn_main_guide_selector" />
+
+        <ImageButton
+            android:id="@+id/setting_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="31.74dp"
+            android:background="@drawable/btn_main_setting_selector" />
+
+        <ImageButton
+            android:id="@+id/refresh_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="2.25dp"
+            android:background="@drawable/btn_main_refresh_selector_02" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/category_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/top_menu"
+        android:layout_marginLeft="25.33dp"
+        android:layout_marginRight="20.67dp"
+        android:cacheColorHint="#00000000"
+        android:divider="@drawable/menu_bg02"
+        android:listSelector="@android:color/transparent"
+        android:overScrollMode="never" />
+
+    <ImageView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/menu_bg04"/>
+    <!-- 
+    <RelativeLayout 
+        android:id="@+id/main_menu_apply_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/btn_main_apply_selector">
+        <TextView
+	        style="@style/fontstyle_txt_main_apply_btn"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	        android:drawableLeft="@drawable/menu_icon_apply01"
+	        android:drawablePadding="7dp"
+	        android:gravity="center"
+	        android:text="@string/apply" />
+    </RelativeLayout>
+     -->
+
+</RelativeLayout>

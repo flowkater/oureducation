@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view
+END
+PlayerSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/PlayerSurfaceView.java
+END
+SetupMainView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/SetupMainView.java
+END
+MainDetailView.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/MainDetailView.java
+END
+PlayerListItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/PlayerListItemView.java
+END
+MainMenuView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/MainMenuView.java
+END
+SetupWifiListItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/SetupWifiListItemView.java
+END
+SetupWiFiListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/SetupWiFiListView.java
+END
+MediaPlayerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/MediaPlayerView.java
+END
+ContentsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/ContentsView.java
+END
+SetupCategoryView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/SetupCategoryView.java
+END
+PlayerTopView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/PlayerTopView.java
+END
+PlayerBottomView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/PlayerBottomView.java
+END
+RoundProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/RoundProgress.java
+END
+PasswordEditText.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/view/PasswordEditText.java
+END

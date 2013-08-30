@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p
+END
+P2PClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/P2PClient.java
+END
+P2PSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/P2PSession.java
+END
+P2PServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/P2PServer.java
+END
+P2PClientJSON.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/P2PClientJSON.java
+END
+JSONProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/JSONProtocol.java
+END
+P2PManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/P2PManager.java
+END

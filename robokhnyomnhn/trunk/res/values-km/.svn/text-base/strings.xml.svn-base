@@ -1,0 +1,73 @@
+<resources>
+
+    <string name="app_name">Robo Khnyom</string>
+    <string name="menu_settings">ការកំណត់</string>
+    <string name="dialog_link_save">រក្សាទុកទំនាក់ទំនង</string>
+    <string name="download_complete">ការទាញយកឯកសារទទួលបានជោគជ័យ</string>
+    <string name="download_unsuccessful">ការទាញយកឯកសារមិនទទួលបានជោគជ័យ</string>
+    <string name="finish_application">សូមចុច ពាក្យ \'ថយក្រោយ\' ម្ដងទៀតដើម្បីចាកចេញ</string>
+
+    <!-- main -->
+    <string name="menu">ម៊ឺនុយ</string>
+    <string name="list">បញ្ជី</string>
+    <string name="back">ថយក្រោយ</string>
+    <string name="menu_ok">ព្រម</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <!-- 
+    <string name="ok">ព្រម</string>
+    <string name="cancel">បោះបង់</string>
+     -->
+    <string name="close">បិទ</string>
+    <string name="category_upper_case">ប្រភេទ</string>
+    <string name="apply">អនុវត្</string>
+    <string name="contents_download">ទាញយក</string>
+    <string name="contents_empty_guide">អត់មានឯកសារសម្រាប់ទាញយក\nរឺ ចាក់</string>
+
+    <!-- DataManager -->
+    <string name="start_service">សេវាចាប់ផ្ដើម</string>
+    <string name="stop_service">សេវាបញ្ចប់</string>
+    <string name="tearche">គ្រូបង្រៀន</string>
+    <string name="student">សិស្</string>
+    
+    <!-- SettingActivity -->
+    <string name="finding_syncdata">Finding syncdata</string>
+    <string name="finding_student">Finding connected student</string>
+    <string name="finding_teacher">Finding teacher</string>
+    <string name="finding">Finding..</string>
+    <string name="error">error</string>
+    <string name="error_datasync">fail datasync!!!</string>
+    <string name="datasync">datasync</string>
+    <string name="dontneed_datasync">don\'t need datasync</string>
+    <string name="error_wifi_direct_disable_title">WifiDirect</string>
+    <string name="error_wifi_direct_disable_message">WifiDirect is disable</string>
+    <string name="error_wifi_direct_disconnected_title">Disconnected</string>
+    <string name="error_wifi_direct_disconnected_message">You must connect to teacher</string>
+    
+    <!-- SetupMainView -->
+    <string name="wi_fi">WI-FI</string>
+    <string name="connected_student">Connected Student</string>
+    
+     <!-- SepupWifiListItemView -->
+    <string name="wi_fi_direct_id">WI-FI Direct ID</string>
+    <!-- WifiDirectWrapper -->
+    <string name="channerl_disconnected_message">Severe! Channel is probably lost premanently. Try Disable/Re-Enable P2P.</string>
+    <string name="delete_ok">Yes</string>
+    <string name="delete_cancel">No</string>
+    <string name="delete_dialog_body">Do you really delete this file?</string>
+    <string name="str_password">ពាក្យ​សម្ងាត់</string>
+    <string name="str_student">សិស្ស</string>
+    <string name="str_teacher">គ្រូបង្រៀន</string>
+    <string name="str_network">បណ្ដាញ</string>
+    <string name="str_data_sync">ធ្វើ​សមកាលកម្ម ទិន្នន័យ</string>
+    <string name="str_connected_student">Connected Students</string>
+    <string name="str_delete">លុប</string>
+    <string name="str_back">ថយក្រោយ</string>
+    <string name="str_category">ប្រភេទ</string>
+    <string name="str_language">កញ្ចប់​ភាសា</string>
+    <string name="no_device">There is no device</string>
+	<string name="mode_change">Mode Change</string>
+	
+	<string name="connect_to_teacher">You have to Connect to the Teacher.</string>
+
+</resources>

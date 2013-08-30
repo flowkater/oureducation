@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model
+END
+OurWifiDirectDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurWifiDirectDevice.java
+END
+OurJSONModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurJSONModel.java
+END
+OurCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurCategory.java
+END
+OurContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurContents.java
+END
+OurResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurResponse.java
+END
+ExistingContentsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/ExistingContentsResponse.java
+END
+OurMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurMetaInfo.java
+END
+OurVideoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurVideoFile.java
+END
+OurContentCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/model/OurContentCategory.java
+END

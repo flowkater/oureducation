@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget
+END
+HorizontalListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget/HorizontalListView.java
+END
+NCTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget/NCTextView.java
+END
+NCBoldTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget/NCBoldTextView.java
+END
+NCHorizontalListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget/NCHorizontalListView.java
+END
+VerticalSeekBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget/VerticalSeekBar.java
+END
+VerticalTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/ui/widget/VerticalTextView.java
+END

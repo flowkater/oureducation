@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/asynctask
+END
+CallbackTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/asynctask/CallbackTask.java
+END
+SyncAndReloadNoti.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/asynctask/SyncAndReloadNoti.java
+END
+SyncAndContentNoti.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/asynctask/SyncAndContentNoti.java
+END
+SyncFileAndDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/asynctask/SyncFileAndDatabase.java
+END
+GetMetaInfoFromMetaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/asynctask/GetMetaInfoFromMetaFile.java
+END

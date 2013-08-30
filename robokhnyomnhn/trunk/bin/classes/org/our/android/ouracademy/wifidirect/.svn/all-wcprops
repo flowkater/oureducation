@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect
+END
+WifiDirectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect/WifiDirectListener.java
+END
+WiFiDirectBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect/WiFiDirectBroadcastReceiver.java
+END
+WifiDirectDefaultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect/WifiDirectDefaultListener.java
+END
+WifiDirectStudentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect/WifiDirectStudentListener.java
+END
+WifiDirectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect/WifiDirectWrapper.java
+END
+WifiDirectTeacherListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/wifidirect/WifiDirectTeacherListener.java
+END

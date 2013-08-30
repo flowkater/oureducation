@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/dao
+END
+CategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/dao/CategoryDAO.java
+END
+DAOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/dao/DAOException.java
+END
+FSIDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/dao/FSIDAO.java
+END
+VideoFileDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/dao/VideoFileDAO.java
+END
+ContentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/dao/ContentDAO.java
+END

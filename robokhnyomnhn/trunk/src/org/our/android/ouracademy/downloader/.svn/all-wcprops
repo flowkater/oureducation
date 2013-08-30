@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader
+END
+DownloadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader/DownloadRequest.java
+END
+ServiceStartReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader/ServiceStartReceiver.java
+END
+JobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader/JobManager.java
+END
+DownloadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader/DownloadService.java
+END
+IDownloadService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader/IDownloadService.aidl
+END
+HttpUrlDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/downloader/HttpUrlDownload.java
+END

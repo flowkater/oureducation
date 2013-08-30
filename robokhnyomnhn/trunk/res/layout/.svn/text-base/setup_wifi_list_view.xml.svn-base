@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="525.82dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="61.33dp"
+        layout="@layout/setup_list_item_title" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="295.33dp"
+        android:background="@drawable/setup_bg02"
+        android:visibility="gone" />
+
+    <LinearLayout 
+        android:id="@+id/no_list"
+        android:layout_width="match_parent"
+        android:layout_height="295.33dp"
+        android:background="@drawable/setup_bg02"
+        android:orientation="vertical"
+        android:gravity="center_horizontal" >
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/setup_icon_nolist01" 
+            android:layout_marginTop="63.85dp"/>
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_device"
+            android:layout_marginTop="18.78dp"
+            android:textSize="22.54dp"
+            android:textColor="#887257"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+</LinearLayout>

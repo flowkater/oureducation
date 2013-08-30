@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/util
+END
+DbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/util/DbManager.java
+END
+NameValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/util/NameValuePair.java
+END
+NetworkState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/util/NetworkState.java
+END
+ScreenInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/util/ScreenInfo.java
+END
+DbRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/util/DbRow.java
+END

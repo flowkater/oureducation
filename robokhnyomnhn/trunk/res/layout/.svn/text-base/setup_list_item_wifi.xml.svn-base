@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="525.82dp"
+    android:layout_height="69.11dp"
+    android:background="@drawable/setup_bg023"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="30.05dp"
+    android:paddingRight="27.79dp" >
+
+    <ImageView
+        android:id="@+id/userIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15.02dp"
+        android:src="@drawable/setup_icon_connectmem01" />
+
+    <org.our.android.ouracademy.ui.widget.NCTextView
+        android:id="@+id/directId"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="WI-FI Direct ID (1)"
+        android:textColor="#887257"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/wifiIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/setup_icon_wifi02" />
+
+    <ProgressBar
+        android:id="@+id/wifiConnecting"
+        style="@android:style/Widget.ProgressBar.Small"
+        android:layout_width="24.04dp"
+        android:layout_height="24.04dp"
+        android:visibility="gone" />
+
+</LinearLayout>

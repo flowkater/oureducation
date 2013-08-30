@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <org.our.android.ouracademy.ui.view.PlayerSurfaceView
+        android:id="@+id/surface"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" />
+
+    <org.our.android.ouracademy.ui.view.PlayerTopView
+        android:id="@+id/titleBar"
+        android:layout_width="fill_parent"
+        android:layout_height="56.67dp"
+        android:layout_alignParentTop="true"
+        android:gravity="center_vertical" />
+
+    <org.our.android.ouracademy.ui.view.PlayerBottomView
+        android:id="@+id/bottomBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" />
+
+    <RelativeLayout
+        android:id="@+id/playerCenter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/bottomBar"
+        android:layout_below="@id/titleBar" >
+
+        <ImageView
+            android:id="@+id/play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/btn_state_play_normal" />
+
+        <LinearLayout
+            android:id="@+id/soundControll"
+            android:layout_width="64.67dp"
+            android:layout_height="198.33dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="66dp"
+            android:background="@drawable/player_bg03"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="20.67dp"
+                android:layout_height="20.67dp"
+                android:background="@drawable/player_icon_sound04" />
+
+            <org.our.android.ouracademy.ui.widget.VerticalSeekBar
+                android:id="@+id/soundVolume"
+                style="@style/Widget.SeekBar.Sound"
+                android:layout_width="wrap_content"
+                android:layout_height="116dp"
+                android:padding="10dp" />
+
+            <ImageView
+                android:layout_width="20.67dp"
+                android:layout_height="7.33dp"
+                android:layout_marginTop="2.67dp"
+                android:background="@drawable/player_icon_sound05" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

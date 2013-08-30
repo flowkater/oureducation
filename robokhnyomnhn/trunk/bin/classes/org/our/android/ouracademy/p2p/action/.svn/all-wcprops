@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/action
+END
+GetMetaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/action/GetMetaInfo.java
+END
+OurP2PAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/action/OurP2PAction.java
+END
+DownloadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/action/DownloadFile.java
+END
+GetExistingContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/action/GetExistingContents.java
+END
+OurJSONAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/robokhnyomnhn/!svn/ver/2/trunk/src/org/our/android/ouracademy/p2p/action/OurJSONAction.java
+END
